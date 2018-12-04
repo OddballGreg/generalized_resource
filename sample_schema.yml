@@ -1,0 +1,29 @@
+api_one:
+  conf:
+    base_url: 'http://10.10.10.10/api/v1'
+  models:
+    customer:
+      has_many:
+        - orders
+    orders:
+      belongs_to:
+        - customer
+      has_many:
+        - order_items
+    order_item:
+      belongs_to:
+        - order
+      has_one:
+        - order_detail
+    order_detail:
+
+api_two:
+  conf:
+    base_url: 'http://10.10.10.10/api/v1'
+  models:
+    user:
+      has_many:
+        - activity_logs
+    activity_log:
+      belongs_to:
+        - user
