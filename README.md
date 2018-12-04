@@ -311,5 +311,5 @@ Built with [Gemsmith](https://github.com/bkuhlmann/gemsmith). -->
 
 ## Credits
 
-Developed by [Gregory Havenga]() at
+Developed by [Gregory Havenga](https://github.com/OddballGreg) at
 []().
