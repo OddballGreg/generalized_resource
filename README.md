@@ -25,7 +25,7 @@
 ## Features
 - Consistent, ActiveRecord-like chainable DSL for making rich and understandable queries to an API.
 - Syntax developed to allow highly configurable and logical queries against the database such as like queries on string fields, paginated requests and ordering.
-- Developed to interact wtih the (GeneralizedApi)[] gem to get your microservices communicating with minimum fuss.  
+- Developed to interact wtih the (GeneralizedApi)[https://github.com/OddballGreg/generalized_api] gem to get your microservices communicating with minimum fuss.  
 
 ## To Do
 - Negative (not) requests.
