@@ -11,12 +11,12 @@
   - [Setup](#setup)
   - [Usage](#usage)
   - [Config](#config)
-  - [Tests](#tests)
+  <!-- - [Tests](#tests) -->
   - [Versioning](#versioning)
-  - [Code of Conduct](#code-of-conduct)
-  - [Contributions](#contributions)
+  <!-- - [Code of Conduct](#code-of-conduct) -->
+  <!-- - [Contributions](#contributions) -->
   - [License](#license)
-  - [History](#history)
+  <!-- - [History](#history) -->
   - [Credits](#credits)
 
 <!-- Tocer[finish]: Auto-generated, don't remove. -->
@@ -276,11 +276,11 @@ alan_customer_count = GeneralizedResource::Api::Customer.where(first_name: 'Alan
 # 2
 ```
 
-## Tests
+<!-- ## Tests
 
 To test, run:
 
-    bundle exec rake
+    bundle exec rake -->
 
 ## Versioning
 
@@ -290,24 +290,24 @@ Read [Semantic Versioning](http://semver.org) for details. Briefly, it means:
 - Minor (x.Y.z) - Incremented for new, backwards compatible, public API enhancements/fixes.
 - Patch (x.y.Z) - Incremented for small, backwards compatible, bug fixes.
 
-## Code of Conduct
+<!-- ## Code of Conduct
 
 Please note that this project is released with a [CODE OF CONDUCT](CODE_OF_CONDUCT.md). By
 participating in this project you agree to abide by its terms.
 
 ## Contributions
 
-Read [CONTRIBUTING](CONTRIBUTING.md) for details.
+Read [CONTRIBUTING](CONTRIBUTING.md) for details. -->
 
 ## License
 
 Copyright 2018 []().
 Read [LICENSE](LICENSE.md) for details.
 
-## History
+<!-- ## History
 
 Read [CHANGES](CHANGES.md) for details.
-Built with [Gemsmith](https://github.com/bkuhlmann/gemsmith).
+Built with [Gemsmith](https://github.com/bkuhlmann/gemsmith). -->
 
 ## Credits
 
